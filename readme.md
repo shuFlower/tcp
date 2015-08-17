@@ -1,5 +1,5 @@
 **tcp练习**
-tcp：server端支持客户端多次访问
+server端支持客户端多次访问
 
 <ul>
   <li>
