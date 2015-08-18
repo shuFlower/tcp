@@ -36,5 +36,6 @@ while (true) {
         echo 'send : ' . $words;
     }
     usleep(100000);  //避免频繁死循环死机，sleep
+    
 }
 socket_close($socket);
